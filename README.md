@@ -1,4 +1,5 @@
 
+![Copy of New Tech Futuristic Purple and Yellow Youtube Thumbnail](https://github.com/RishabhParihar873/Words-Per-Minute-Java-Project/assets/112072004/b772e67a-c678-40c8-ba48-4f9bd6fc3c87)
 
 
 # Words Per Minute Typing Speed Analyzer
