@@ -4,7 +4,7 @@
 
 # Words Per Minute Typing Speed Analyzer
 
-Check out the [live demo on YouTube](https://www.youtube.com/your-demo-link) for a walkthrough of the application.
+Check out the [live demo on YouTube](https://youtu.be/IIJ2UATPpKk) for a walkthrough of the application.
 
 ## Overview
 
